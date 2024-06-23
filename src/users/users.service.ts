@@ -9,6 +9,7 @@ export class UsersService {
   }
 
   findAll() {
+    return [];
     return `This action returns all users`;
   }
 
